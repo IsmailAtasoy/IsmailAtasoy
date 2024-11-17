@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ismail Atasoy
-- 👀 I’m interested in  AI
-- 🌱 I’m currently learning  PYTHON
-- 📫 How to reach me  ismailatasoy85@gmail.com
-
+ismailatasoy85@gmail.com
 
 <!---
 IsmailAtasoy/IsmailAtasoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
